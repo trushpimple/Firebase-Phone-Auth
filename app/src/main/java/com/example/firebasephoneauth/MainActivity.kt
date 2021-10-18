@@ -116,10 +116,6 @@ class MainActivity : AppCompatActivity()
 }
 
 
-
-
-
-
     }
 
     private fun startPhoneNumberVerification(phone: String)
